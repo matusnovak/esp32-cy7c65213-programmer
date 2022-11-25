@@ -4,6 +4,8 @@ This is a simple USB-C programmer that uses the CY7C65213 UART bridge controller
 
 ![Board image](pcb-screenshot.png)
 
+**[Schematic PDF](esp32-cy7c65213-programmer.pdf)**
+
 ## NOTE
 
 * Do not connect a capacitor on the BOOT pin (GPIO 0 pin) towards the ground. It will cause the ESP32 to jump to the programming mode on power up.
