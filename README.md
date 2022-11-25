@@ -11,3 +11,7 @@ This is a simple USB-C programmer that uses the CY7C65213 UART bridge controller
 **Why CY7C65213?**
 
 It works in Linux and Windows out of the box without the need to install any drivers. Compared to the CH340 UART controllers the drivers for CY7C65213 are stable and mature. I do not want to install some shady CH340 drivers that work half of the time.
+
+**Screenshot**
+
+![Board image](pcb-screenshot.png)
